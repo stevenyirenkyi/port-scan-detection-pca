@@ -1,0 +1,25 @@
+XGBoost
+
+Training Time:		18.026198935508727
+Prediction Time:	0.0737910270690918
+
+Accuracy:    	0.9998392146134893
+F1:         	0.9998551232627181
+Recall:     	0.9997544116291873
+Precision:  	0.9999559055034115
+AUC TR:     	0.9999214626790651
+AUC ROC:    	0.9999735474529767
+Mean² Err:  	-0.0001607853865106916
+
+Confusion Matrix
+Actual         0      1
+Predicted              
+0          25388      5
+1              0  31827
+
+TN:	25388
+TP:	31827
+FN:	5
+FP:	0
+
+Pecent of FP:	%0.0

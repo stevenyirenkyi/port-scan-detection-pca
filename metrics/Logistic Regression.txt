@@ -1,0 +1,25 @@
+Logistic Regression
+
+Training Time:		23.023859596252443
+Prediction Time:	0.023308610916137694
+
+Accuracy:    	0.9966829339970193
+F1:         	0.9970164126212616
+Recall:     	0.9986335012594459
+Precision:  	0.995411549445483
+AUC TR:     	0.9964292704494405
+AUC ROC:    	0.9995772124988829
+Mean² Err:  	-0.003317066002980635
+
+Confusion Matrix
+Actual         0      1
+Predicted              
+0          25237     38
+1            151  31794
+
+TN:	25237
+TP:	31794
+FN:	38
+FP:	151
+
+Pecent of FP:	%0.5947691822908461

@@ -1,0 +1,25 @@
+Random Forest
+
+Training Time:		19.083848214149477
+Prediction Time:	0.17322025299072266
+
+Accuracy:    	0.9998531961054924
+F1:         	0.9998677260515618
+Recall:     	0.9997795993564859
+Precision:  	0.9999559233605761
+AUC TR:     	0.9999017683352807
+AUC ROC:    	0.9999613165367063
+Mean² Err:  	-0.00014680389450752373
+
+Confusion Matrix
+Actual         0      1
+Predicted              
+0          25387      5
+1              1  31827
+
+TN:	25387
+TP:	31827
+FN:	5
+FP:	1
+
+Pecent of FP:	%0.00393886875689302

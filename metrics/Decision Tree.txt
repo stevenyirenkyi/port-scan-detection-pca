@@ -1,0 +1,25 @@
+Decision Tree
+
+Training Time:		5.490688276290894
+Prediction Time:	0.08588058948516845
+
+Accuracy:    	0.9996924110855042
+F1:         	0.999722927054124
+Recall:     	0.999748115589546
+Precision:  	0.9996978174139388
+AUC TR:     	0.9998623796477117
+AUC ROC:    	0.9996855150402203
+Mean² Err:  	-0.00030758891449564866
+
+Confusion Matrix
+Actual         0      1
+Predicted              
+0          25385      5
+1              3  31827
+
+TN:	25385
+TP:	31827
+FN:	5
+FP:	3
+
+Pecent of FP:	%0.011816606270679061
