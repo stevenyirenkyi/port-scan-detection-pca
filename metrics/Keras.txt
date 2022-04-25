@@ -1,0 +1,14 @@
+Keras
+
+Confusion Matrix
+Actual         0      1
+Predicted              
+0          25376     26
+1             12  31806
+
+TN:	25376
+TP:	31806
+FN:	26
+FP:	12
+
+Pecent of FP:	%0.047266425082716244
