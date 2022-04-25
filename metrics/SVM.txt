@@ -1,0 +1,25 @@
+SVM
+
+Training Time:		150.68629693984985
+Prediction Time:	13.960822606086731
+
+Accuracy:    	0.9985878704072478
+F1:         	0.998728131051639
+Recall:     	0.9989231738035265
+Precision:  	0.9985378107927907
+AUC TR:     	0.9992448414480101
+AUC ROC:    	0.9995003930016184
+Mean² Err:  	-0.0014121295927522555
+
+Confusion Matrix
+Actual         0      1
+Predicted              
+0          25368     23
+1             20  31809
+
+TN:	25368
+TP:	31809
+FN:	23
+FP:	20
+
+Pecent of FP:	%0.0787773751378604

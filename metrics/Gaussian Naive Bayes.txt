@@ -1,0 +1,25 @@
+Gaussian Naive Bayes
+
+Training Time:		0.10538101196289062
+Prediction Time:	0.0487074613571167
+
+Accuracy:    	0.9181113942470788
+F1:         	0.9302125650099349
+Recall:     	0.982324112174347
+Precision:  	0.8834659695915296
+AUC TR:     	0.9087201614605559
+AUC ROC:    	0.9812356996726443
+Mean² Err:  	-0.0818886057529211
+
+Confusion Matrix
+Actual         0      1
+Predicted              
+0          21203    564
+1           4185  31268
+
+TN:	21203
+TP:	31268
+FN:	564
+FP:	4185
+
+Pecent of FP:	%16.48416574759729

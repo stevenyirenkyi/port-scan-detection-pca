@@ -1,0 +1,25 @@
+KNN
+
+Training Time:		0.056701827049255374
+Prediction Time:	515.5362283945084
+
+Accuracy:    	0.9998566913868627
+F1:         	0.999870890632217
+Recall:     	0.9998488664987406
+Precision:  	0.9998929653351313
+AUC TR:     	0.9997875891521713
+AUC ROC:    	0.9999440939722982
+Mean² Err:  	-0.00014330861313737345
+
+Confusion Matrix
+Actual         0      1
+Predicted              
+0          25382      6
+1              6  31826
+
+TN:	25382
+TP:	31826
+FN:	6
+FP:	6
+
+Pecent of FP:	%0.023633212541358122
